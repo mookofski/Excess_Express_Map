@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/ttyd/Excess_Express/Common/Wall_Light/rsh_runpu"
+
+	$translucent 1
+}

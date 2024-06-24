@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/ttyd/Excess_Express/Cargo/rsh_fens"
+$alphatest	1
+	$alphatestreference	0.5
+	$allowalphatocoverage	1
+	$nocull 1
+}

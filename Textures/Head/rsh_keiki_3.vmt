@@ -1,0 +1,8 @@
+
+"VertexLitGeneric"
+{
+$alphatest	1
+	$alphatestreference	0.5
+	$allowalphatocoverage	1
+	"$basetexture" "models/ttyd/Excess_Express/Head/rsh_keiki_3"
+}

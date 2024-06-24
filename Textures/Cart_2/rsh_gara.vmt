@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/ttyd/Excess_Express/Cart_2/rsh_gara"
+	"$color2" "[0.611874 0.223529 0.290196]"
+$alphatest	1
+	$alphatestreference	0.5
+	$allowalphatocoverage	1
+}

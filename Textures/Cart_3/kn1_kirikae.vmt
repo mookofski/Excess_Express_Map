@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/ttyd/Excess_Express/Cart_3/kn1_kirikae"
+$alphatest	1
+	$alphatestreference	0.5
+	$allowalphatocoverage	1
+
+}

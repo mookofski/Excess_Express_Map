@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/ttyd/Excess_Express/Cart_2/rsh_reesu"
+$alphatest	1
+	$alphatestreference	0.5
+	$allowalphatocoverage	1
+}
