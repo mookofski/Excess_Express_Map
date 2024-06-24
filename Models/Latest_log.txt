@@ -1,0 +1,2324 @@
+Using shader api: shaderapiempty.dll
+qdir:    "d:\organized folder\melody\ttyd\blender\project\models\export\"
+gamedir: "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\"
+g_path:  "Bottom.qc"
+Building binary model files...
+Working on "Bottom.qc"
+ERROR: d:\organized folder\melody\ttyd\blender\project\models\export\Bottom.qc(2): - could not load file 'Bottom.smd'
+ERROR: Aborted Processing on 'ttyd\Excess_Express\Bottom\Bottom.mdl'
+WARNING: Leaking 1 elements
+CDynamicFunction: Loading library 'Kernel32.dll' (770D0000)
+CDynamicFunction: Lookup of 'TryEnterCriticalSection' in 'Kernel32.dll': 77450D80
+CDynamicFunction: Loading library 'psapi.dll' (752D0000)
+CDynamicFunction: Lookup of 'GetProcessMemoryInfo' in 'psapi.dll': 752D1480
+CDynamicFunction: Closing library 'psapi.dll' (752D0000)
+CDynamicFunction: Closing library 'Kernel32.dll' (770D0000)
+Using shader api: shaderapiempty.dll
+qdir:    "d:\organized folder\melody\ttyd\blender\project\models\export\"
+gamedir: "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\"
+g_path:  "Cabin_Door.qc"
+Building binary model files...
+Working on "Cabin_Door.qc"
+SMD MODEL Cabin_Door.smd
+Processing LOD for material: vertexColors_02a
+Processing LOD for material: rsh_mokume
+Processing LOD for material: rsh_kabe_red
+Model has 6 convex sub-parts
+Collision model completed.
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Common\Cabin_Door\Cabin_Door.mdl:
+bones          964 bytes (1)
+animations     112 bytes (1 anims) (1 frames) [0:00]
+sequences      220 bytes (1 seq) 
+ik/pose        164 bytes
+eyeballs         0 bytes (0 eyeballs)
+flexes           0 bytes (0 flexes)
+textures       656 bytes
+keyvalues        0 bytes
+bone transforms        0 bytes
+Collision model volume 59685.18 in^3
+Please check if you need to delete F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Common\Cabin_Door\Cabin_Door.phz
+collision        0 bytes
+total         2732
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Common\Cabin_Door\Cabin_Door.vvd:
+vertices     21312 bytes (444 vertices)
+tangents      7104 bytes (444 vertices)
+total        28480 bytes
+---------------------
+Generating optimized mesh "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Common\Cabin_Door\Cabin_Door.dx90.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:            27 bytes
+strip groups:      75 bytes
+strips:            81 bytes
+verts:           3996 bytes
+indices:         3168 bytes
+bone changes:      32 bytes
+everything:      7443 bytes
+
+Completed "Cabin_Door.qc"
+CDynamicFunction: Loading library 'Kernel32.dll' (770D0000)
+CDynamicFunction: Lookup of 'TryEnterCriticalSection' in 'Kernel32.dll': 77450D80
+CDynamicFunction: Loading library 'psapi.dll' (752D0000)
+CDynamicFunction: Lookup of 'GetProcessMemoryInfo' in 'psapi.dll': 752D1480
+CDynamicFunction: Closing library 'psapi.dll' (752D0000)
+CDynamicFunction: Closing library 'Kernel32.dll' (770D0000)
+Using shader api: shaderapiempty.dll
+qdir:    "d:\organized folder\melody\ttyd\blender\project\models\export\"
+gamedir: "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\"
+g_path:  "Cargo.qc"
+Building binary model files...
+Working on "Cargo.qc"
+ERROR: d:\organized folder\melody\ttyd\blender\project\models\export\Cargo.qc(2): - could not load file 'Cargo.smd'
+ERROR: Aborted Processing on 'ttyd\Excess_Express\Cargo\Cargo.mdl'
+WARNING: Leaking 1 elements
+CDynamicFunction: Loading library 'Kernel32.dll' (770D0000)
+CDynamicFunction: Lookup of 'TryEnterCriticalSection' in 'Kernel32.dll': 77450D80
+CDynamicFunction: Loading library 'psapi.dll' (752D0000)
+CDynamicFunction: Lookup of 'GetProcessMemoryInfo' in 'psapi.dll': 752D1480
+CDynamicFunction: Closing library 'psapi.dll' (752D0000)
+CDynamicFunction: Closing library 'Kernel32.dll' (770D0000)
+Using shader api: shaderapiempty.dll
+qdir:    "d:\organized folder\melody\ttyd\blender\project\models\export\"
+gamedir: "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\"
+g_path:  "Cart_1.qc"
+Building binary model files...
+Working on "Cart_1.qc"
+ERROR: d:\organized folder\melody\ttyd\blender\project\models\export\Cart_1.qc(2): - could not load file 'Cart_1.smd'
+ERROR: Aborted Processing on 'ttyd\Excess_Express\Cart_1\Cart_1.mdl'
+WARNING: Leaking 1 elements
+CDynamicFunction: Loading library 'Kernel32.dll' (770D0000)
+CDynamicFunction: Lookup of 'TryEnterCriticalSection' in 'Kernel32.dll': 77450D80
+CDynamicFunction: Loading library 'psapi.dll' (752D0000)
+CDynamicFunction: Lookup of 'GetProcessMemoryInfo' in 'psapi.dll': 752D1480
+CDynamicFunction: Closing library 'psapi.dll' (752D0000)
+CDynamicFunction: Closing library 'Kernel32.dll' (770D0000)
+Using shader api: shaderapiempty.dll
+qdir:    "d:\organized folder\melody\ttyd\blender\project\models\export\"
+gamedir: "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\"
+g_path:  "Cart_2.qc"
+Building binary model files...
+Working on "Cart_2.qc"
+SMD MODEL Cart_2.smd
+Processing LOD for material: rsh_kabe_2
+Processing LOD for material: vertexColors_02a
+Processing LOD for material: rsh_gara
+Processing LOD for material: rsh_kabe_4
+Processing LOD for material: rsh_kabe_red
+Processing LOD for material: rsh_kabe_3
+Processing LOD for material: rsh_mokume
+Processing LOD for material: rsh_siro
+Processing LOD for material: rsh_hanabira
+Processing LOD for material: rsh_turuha
+Processing LOD for material: rsh_suuji_2
+Processing LOD for material: btr_nuno_02
+Processing LOD for material: rsh_kaaten
+Processing LOD for material: rsh_reesu
+Processing LOD for material: rsh_yuka_red_3
+Processing LOD for material: btr_kin
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: COSTLY COLLISION MODEL!!!! (743 parts - 40 allowed)
+WARNING: Error with convex elements of Cart_2.smd, building single convex!!!!
+Model has 1 convex sub-parts
+Collision model completed.
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Cart_2\Cart_2.mdl:
+bones          964 bytes (1)
+animations     112 bytes (1 anims) (1 frames) [0:00]
+sequences      220 bytes (1 seq) 
+ik/pose        164 bytes
+eyeballs         0 bytes (0 eyeballs)
+flexes           0 bytes (0 flexes)
+textures      1060 bytes
+keyvalues        0 bytes
+bone transforms        0 bytes
+Collision model volume 150237712.00 in^3
+Please check if you need to delete F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Cart_2\Cart_2.phz
+collision        0 bytes
+total         4640
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Cart_2\Cart_2.vvd:
+vertices    809952 bytes (16874 vertices)
+tangents    269984 bytes (16874 vertices)
+total      1080000 bytes
+---------------------
+Generating optimized mesh "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Cart_2\Cart_2.dx90.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:           144 bytes
+strip groups:     400 bytes
+strips:           432 bytes
+verts:         151866 bytes
+indices:       106140 bytes
+bone changes:     136 bytes
+everything:    259182 bytes
+
+Completed "Cart_2.qc"
+CDynamicFunction: Loading library 'Kernel32.dll' (770D0000)
+CDynamicFunction: Lookup of 'TryEnterCriticalSection' in 'Kernel32.dll': 77450D80
+CDynamicFunction: Loading library 'psapi.dll' (752D0000)
+CDynamicFunction: Lookup of 'GetProcessMemoryInfo' in 'psapi.dll': 752D1480
+CDynamicFunction: Closing library 'psapi.dll' (752D0000)
+CDynamicFunction: Closing library 'Kernel32.dll' (770D0000)
+Using shader api: shaderapiempty.dll
+qdir:    "d:\organized folder\melody\ttyd\blender\project\models\export\"
+gamedir: "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\"
+g_path:  "Cart_3.qc"
+Building binary model files...
+Working on "Cart_3.qc"
+ERROR: d:\organized folder\melody\ttyd\blender\project\models\export\Cart_3.qc(2): - could not load file 'Cart_3.smd'
+ERROR: Aborted Processing on 'ttyd\Excess_Express\Cart_3\Cart_3.mdl'
+WARNING: Leaking 1 elements
+CDynamicFunction: Loading library 'Kernel32.dll' (770D0000)
+CDynamicFunction: Lookup of 'TryEnterCriticalSection' in 'Kernel32.dll': 77450D80
+CDynamicFunction: Loading library 'psapi.dll' (752D0000)
+CDynamicFunction: Lookup of 'GetProcessMemoryInfo' in 'psapi.dll': 752D1480
+CDynamicFunction: Closing library 'psapi.dll' (752D0000)
+CDynamicFunction: Closing library 'Kernel32.dll' (770D0000)
+Using shader api: shaderapiempty.dll
+qdir:    "d:\organized folder\melody\ttyd\blender\project\models\export\"
+gamedir: "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\"
+g_path:  "Cart_4.qc"
+Building binary model files...
+Working on "Cart_4.qc"
+SMD MODEL Cart_4.smd
+Processing LOD for material: rsh_kabe_3
+Processing LOD for material: rsh_reesu
+Processing LOD for material: rsh_kaaten
+Processing LOD for material: rsh_siro
+Processing LOD for material: btr_nuno_02
+Processing LOD for material: rsh_mokume
+Processing LOD for material: rsh_turuha
+Processing LOD for material: rsh_hanabira
+Processing LOD for material: rsh_gara
+Processing LOD for material: vertexColors_04a
+Processing LOD for material: rsh_kabe_4
+Processing LOD for material: rsh_kabe_blue
+Processing LOD for material: rsh_kabe_2
+Processing LOD for material: btr_kin
+Processing LOD for material: rsh_yuka_blue
+Processing LOD for material: rsh_suuji_2
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: COSTLY COLLISION MODEL!!!! (648 parts - 40 allowed)
+WARNING: Error with convex elements of Cart_4.smd, building single convex!!!!
+Model has 1 convex sub-parts
+Collision model completed.
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Cart_4\Cart_4.mdl:
+bones          964 bytes (1)
+animations     112 bytes (1 anims) (1 frames) [0:00]
+sequences      220 bytes (1 seq) 
+ik/pose        164 bytes
+eyeballs         0 bytes (0 eyeballs)
+flexes           0 bytes (0 flexes)
+textures      1060 bytes
+keyvalues        0 bytes
+bone transforms        0 bytes
+Collision model volume 149712736.00 in^3
+Please check if you need to delete F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Cart_4\Cart_4.phz
+collision        0 bytes
+total         4640
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Cart_4\Cart_4.vvd:
+vertices    851808 bytes (17746 vertices)
+tangents    283936 bytes (17746 vertices)
+total      1135808 bytes
+---------------------
+Generating optimized mesh "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Cart_4\Cart_4.dx90.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:           144 bytes
+strip groups:     400 bytes
+strips:           432 bytes
+verts:         159714 bytes
+indices:       116556 bytes
+bone changes:     136 bytes
+everything:    277446 bytes
+
+Completed "Cart_4.qc"
+CDynamicFunction: Loading library 'Kernel32.dll' (770D0000)
+CDynamicFunction: Lookup of 'TryEnterCriticalSection' in 'Kernel32.dll': 77450D80
+CDynamicFunction: Loading library 'psapi.dll' (752D0000)
+CDynamicFunction: Lookup of 'GetProcessMemoryInfo' in 'psapi.dll': 752D1480
+CDynamicFunction: Closing library 'psapi.dll' (752D0000)
+CDynamicFunction: Closing library 'Kernel32.dll' (770D0000)
+Using shader api: shaderapiempty.dll
+qdir:    "d:\organized folder\melody\ttyd\blender\project\models\export\"
+gamedir: "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\"
+g_path:  "Head.qc"
+Building binary model files...
+Working on "Head.qc"
+SMD MODEL Head.smd
+Processing LOD for material: rsh_mokume
+Processing LOD for material: rsh_keiki_5
+Processing LOD for material: kyatatu_01
+Processing LOD for material: rsh_yuka_kon
+Processing LOD for material: vertexColors_00a
+Processing LOD for material: rsh_tetu
+Processing LOD for material: rsh_keiki_4
+Processing LOD for material: rsh_bisu
+Processing LOD for material: rsh_keiki_3
+Processing LOD for material: rsh_keiki_2
+Processing LOD for material: rsh_jikokuhyou
+Processing LOD for material: rsh_kikai_1
+Processing LOD for material: tou_03_paipu
+Processing LOD for material: rsh_kamotu_kabe
+Processing LOD for material: muj_ita_02
+Processing LOD for material: rsh_denki
+Processing LOD for material: rsh_kabe_3
+Processing LOD for material: rsh_keikiban
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: COSTLY COLLISION MODEL!!!! (252 parts - 40 allowed)
+WARNING: Error with convex elements of Head.smd, building single convex!!!!
+Model has 1 convex sub-parts
+Collision model completed.
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Head\Head.mdl:
+bones          964 bytes (1)
+animations     112 bytes (1 anims) (1 frames) [0:00]
+sequences      220 bytes (1 seq) 
+ik/pose        164 bytes
+eyeballs         0 bytes (0 eyeballs)
+flexes           0 bytes (0 flexes)
+textures      1192 bytes
+keyvalues        0 bytes
+bone transforms        0 bytes
+Collision model volume 99140736.00 in^3
+Please check if you need to delete F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Head\Head.phz
+collision        0 bytes
+total         5036
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Head\Head.vvd:
+vertices    423264 bytes (8818 vertices)
+tangents    141088 bytes (8818 vertices)
+total       564416 bytes
+---------------------
+Generating optimized mesh "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Head\Head.dx90.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:           162 bytes
+strip groups:     450 bytes
+strips:           486 bytes
+verts:          79218 bytes
+indices:        48492 bytes
+bone changes:     152 bytes
+everything:    129024 bytes
+
+Completed "Head.qc"
+  5.281752 -7.435096 0.000000
+  5.281753 -7.435096 0.000000
+  5.281751 2.288024 0.000000
+  -4.273729 -2.271784 0.000000
+make_triangles:calc_triangle_representation: Cannot convert
+  5.281752 -7.435096 0.000000
+  5.281753 -7.435096 0.000000
+  5.281751 2.288024 0.000000
+  -4.273729 -2.271784 0.000000
+make_triangles:calc_triangle_representation: Cannot convert
+CDynamicFunction: Loading library 'Kernel32.dll' (770D0000)
+CDynamicFunction: Lookup of 'TryEnterCriticalSection' in 'Kernel32.dll': 77450D80
+CDynamicFunction: Loading library 'psapi.dll' (752D0000)
+CDynamicFunction: Lookup of 'GetProcessMemoryInfo' in 'psapi.dll': 752D1480
+CDynamicFunction: Closing library 'psapi.dll' (752D0000)
+CDynamicFunction: Closing library 'Kernel32.dll' (770D0000)
+Using shader api: shaderapiempty.dll
+qdir:    "d:\organized folder\melody\ttyd\blender\project\models\export\"
+gamedir: "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\"
+g_path:  "Present.qc"
+Building binary model files...
+Working on "Present.qc"
+SMD MODEL Present.smd
+Processing LOD for material: Present
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Error with convex elements of Present.smd, building single convex!!!!
+Model has 1 convex sub-parts
+Collision model completed.
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Items\Present.mdl:
+bones          964 bytes (1)
+animations     112 bytes (1 anims) (1 frames) [0:00]
+sequences      220 bytes (1 seq) 
+ik/pose        164 bytes
+eyeballs         0 bytes (0 eyeballs)
+flexes           0 bytes (0 flexes)
+textures        72 bytes
+keyvalues        0 bytes
+bone transforms        0 bytes
+Collision model volume 896.49 in^3
+Please check if you need to delete F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Items\Present.phz
+collision        0 bytes
+total         1728
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Items\Present.vvd:
+vertices      7200 bytes (150 vertices)
+tangents      2400 bytes (150 vertices)
+total         9664 bytes
+---------------------
+Generating optimized mesh "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Items\Present.dx90.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:             9 bytes
+strip groups:      25 bytes
+strips:            27 bytes
+verts:           1350 bytes
+indices:          576 bytes
+bone changes:      16 bytes
+everything:      2067 bytes
+
+Completed "Present.qc"
+CDynamicFunction: Loading library 'Kernel32.dll' (770D0000)
+CDynamicFunction: Lookup of 'TryEnterCriticalSection' in 'Kernel32.dll': 77450D80
+CDynamicFunction: Loading library 'psapi.dll' (752D0000)
+CDynamicFunction: Lookup of 'GetProcessMemoryInfo' in 'psapi.dll': 752D1480
+CDynamicFunction: Closing library 'psapi.dll' (752D0000)
+CDynamicFunction: Closing library 'Kernel32.dll' (770D0000)
+Using shader api: shaderapiempty.dll
+qdir:    "d:\organized folder\melody\ttyd\blender\project\models\export\"
+gamedir: "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\"
+g_path:  "Refresh.qc"
+Building binary model files...
+Working on "Refresh.qc"
+SMD MODEL Refresh.smd
+Processing LOD for material: Refresh
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: COSTLY COLLISION MODEL!!!! (54 parts - 40 allowed)
+WARNING: Error with convex elements of Refresh.smd, building single convex!!!!
+Model has 1 convex sub-parts
+Collision model completed.
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Items\Refresh.mdl:
+bones          964 bytes (1)
+animations     112 bytes (1 anims) (1 frames) [0:00]
+sequences      220 bytes (1 seq) 
+ik/pose        164 bytes
+eyeballs         0 bytes (0 eyeballs)
+flexes           0 bytes (0 flexes)
+textures        72 bytes
+keyvalues        0 bytes
+bone transforms        0 bytes
+Collision model volume 976.70 in^3
+Please check if you need to delete F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Items\Refresh.phz
+collision        0 bytes
+total         1728
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Items\Refresh.vvd:
+vertices     18816 bytes (392 vertices)
+tangents      6272 bytes (392 vertices)
+total        25152 bytes
+---------------------
+Generating optimized mesh "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Items\Refresh.dx90.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:             9 bytes
+strip groups:      25 bytes
+strips:            27 bytes
+verts:           3528 bytes
+indices:         1560 bytes
+bone changes:      16 bytes
+everything:      5229 bytes
+
+Completed "Refresh.qc"
+CDynamicFunction: Loading library 'Kernel32.dll' (770D0000)
+CDynamicFunction: Lookup of 'TryEnterCriticalSection' in 'Kernel32.dll': 77450D80
+CDynamicFunction: Loading library 'psapi.dll' (752D0000)
+CDynamicFunction: Lookup of 'GetProcessMemoryInfo' in 'psapi.dll': 752D1480
+CDynamicFunction: Closing library 'psapi.dll' (752D0000)
+CDynamicFunction: Closing library 'Kernel32.dll' (770D0000)
+Using shader api: shaderapiempty.dll
+qdir:    "d:\organized folder\melody\ttyd\blender\project\models\export\"
+gamedir: "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\"
+g_path:  "Super_Mushroom.qc"
+Building binary model files...
+Working on "Super_Mushroom.qc"
+SMD MODEL Super_Mushroom.smd
+Processing LOD for material: Super_Mushroom
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Error with convex elements of Super_Mushroom.smd, building single convex!!!!
+Model has 1 convex sub-parts
+Collision model completed.
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Items\Super_Mushroom.mdl:
+bones          964 bytes (1)
+animations     112 bytes (1 anims) (1 frames) [0:00]
+sequences      220 bytes (1 seq) 
+ik/pose        164 bytes
+eyeballs         0 bytes (0 eyeballs)
+flexes           0 bytes (0 flexes)
+textures        72 bytes
+keyvalues        0 bytes
+bone transforms        0 bytes
+Collision model volume 824.13 in^3
+Please check if you need to delete F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Items\Super_Mushroom.phz
+collision        0 bytes
+total         1736
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Items\Super_Mushroom.vvd:
+vertices     14592 bytes (304 vertices)
+tangents      4864 bytes (304 vertices)
+total        19520 bytes
+---------------------
+Generating optimized mesh "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Items\Super_Mushroom.dx90.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:             9 bytes
+strip groups:      25 bytes
+strips:            27 bytes
+verts:           2196 bytes
+indices:         1416 bytes
+bone changes:      16 bytes
+everything:      3753 bytes
+
+Completed "Super_Mushroom.qc"
+CDynamicFunction: Loading library 'Kernel32.dll' (770D0000)
+CDynamicFunction: Lookup of 'TryEnterCriticalSection' in 'Kernel32.dll': 77450D80
+CDynamicFunction: Loading library 'psapi.dll' (752D0000)
+CDynamicFunction: Lookup of 'GetProcessMemoryInfo' in 'psapi.dll': 752D1480
+CDynamicFunction: Closing library 'psapi.dll' (752D0000)
+CDynamicFunction: Closing library 'Kernel32.dll' (770D0000)
+Using shader api: shaderapiempty.dll
+qdir:    "d:\organized folder\melody\ttyd\blender\project\models\export\"
+gamedir: "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\"
+g_path:  "Syrup.qc"
+Building binary model files...
+Working on "Syrup.qc"
+SMD MODEL Syrup.smd
+Processing LOD for material: Syrup
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: COSTLY COLLISION MODEL!!!! (44 parts - 40 allowed)
+WARNING: Error with convex elements of Syrup.smd, building single convex!!!!
+Model has 1 convex sub-parts
+Collision model completed.
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Items\Syrup.mdl:
+bones          964 bytes (1)
+animations     112 bytes (1 anims) (1 frames) [0:00]
+sequences      220 bytes (1 seq) 
+ik/pose        164 bytes
+eyeballs         0 bytes (0 eyeballs)
+flexes           0 bytes (0 flexes)
+textures        72 bytes
+keyvalues        0 bytes
+bone transforms        0 bytes
+Collision model volume 1208.95 in^3
+Please check if you need to delete F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Items\Syrup.phz
+collision        0 bytes
+total         1728
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Items\Syrup.vvd:
+vertices     12096 bytes (252 vertices)
+tangents      4032 bytes (252 vertices)
+total        16192 bytes
+---------------------
+Generating optimized mesh "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Items\Syrup.dx90.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:             9 bytes
+strip groups:      25 bytes
+strips:            27 bytes
+verts:           2268 bytes
+indices:          960 bytes
+bone changes:      16 bytes
+everything:      3369 bytes
+
+Completed "Syrup.qc"
+CDynamicFunction: Loading library 'Kernel32.dll' (770D0000)
+CDynamicFunction: Lookup of 'TryEnterCriticalSection' in 'Kernel32.dll': 77450D80
+CDynamicFunction: Loading library 'psapi.dll' (752D0000)
+CDynamicFunction: Lookup of 'GetProcessMemoryInfo' in 'psapi.dll': 752D1480
+CDynamicFunction: Closing library 'psapi.dll' (752D0000)
+CDynamicFunction: Closing library 'Kernel32.dll' (770D0000)
+Using shader api: shaderapiempty.dll
+qdir:    "d:\organized folder\melody\ttyd\blender\project\models\export\"
+gamedir: "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\"
+g_path:  "Thunder.qc"
+Building binary model files...
+Working on "Thunder.qc"
+SMD MODEL Thunder.smd
+Processing LOD for material: Thunder
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Error with convex elements of Thunder.smd, building single convex!!!!
+Model has 1 convex sub-parts
+Collision model completed.
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Items\Thunder.mdl:
+bones          964 bytes (1)
+animations     112 bytes (1 anims) (1 frames) [0:00]
+sequences      220 bytes (1 seq) 
+ik/pose        164 bytes
+eyeballs         0 bytes (0 eyeballs)
+flexes           0 bytes (0 flexes)
+textures        72 bytes
+keyvalues        0 bytes
+bone transforms        0 bytes
+Collision model volume 628.36 in^3
+Please check if you need to delete F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Items\Thunder.phz
+collision        0 bytes
+total         1728
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Items\Thunder.vvd:
+vertices     10080 bytes (210 vertices)
+tangents      3360 bytes (210 vertices)
+total        13504 bytes
+---------------------
+Generating optimized mesh "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Items\Thunder.dx90.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:             9 bytes
+strip groups:      25 bytes
+strips:            27 bytes
+verts:           1890 bytes
+indices:          840 bytes
+bone changes:      16 bytes
+everything:      2871 bytes
+
+Completed "Thunder.qc"
+CDynamicFunction: Loading library 'Kernel32.dll' (770D0000)
+CDynamicFunction: Lookup of 'TryEnterCriticalSection' in 'Kernel32.dll': 77450D80
+CDynamicFunction: Loading library 'psapi.dll' (752D0000)
+CDynamicFunction: Lookup of 'GetProcessMemoryInfo' in 'psapi.dll': 752D1480
+CDynamicFunction: Closing library 'psapi.dll' (752D0000)
+CDynamicFunction: Closing library 'Kernel32.dll' (770D0000)
+Using shader api: shaderapiempty.dll
+qdir:    "d:\organized folder\melody\ttyd\blender\project\models\export\"
+gamedir: "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\"
+g_path:  "Train_Door.qc"
+Building binary model files...
+Working on "Train_Door.qc"
+SMD MODEL Train_Door.smd
+Processing LOD for material: vertexColors_02a
+Processing LOD for material: rsh_mokume
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Error with convex elements of Train_Door.smd, building single convex!!!!
+Model has 1 convex sub-parts
+Collision model completed.
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Common\Train_Door\Train_Door.mdl:
+bones          964 bytes (1)
+animations     112 bytes (1 anims) (1 frames) [0:00]
+sequences      220 bytes (1 seq) 
+ik/pose        164 bytes
+eyeballs         0 bytes (0 eyeballs)
+flexes           0 bytes (0 flexes)
+textures       140 bytes
+keyvalues        0 bytes
+bone transforms        0 bytes
+Collision model volume 97343.14 in^3
+Please check if you need to delete F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Common\Train_Door\Train_Door.phz
+collision        0 bytes
+total         1992
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Common\Train_Door\Train_Door.vvd:
+vertices     27264 bytes (568 vertices)
+tangents      9088 bytes (568 vertices)
+total        36416 bytes
+---------------------
+Generating optimized mesh "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Common\Train_Door\Train_Door.dx90.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:            18 bytes
+strip groups:      50 bytes
+strips:            54 bytes
+verts:           5112 bytes
+indices:         3552 bytes
+bone changes:      24 bytes
+everything:      8874 bytes
+
+Completed "Train_Door.qc"
+CDynamicFunction: Loading library 'Kernel32.dll' (770D0000)
+CDynamicFunction: Lookup of 'TryEnterCriticalSection' in 'Kernel32.dll': 77450D80
+CDynamicFunction: Loading library 'psapi.dll' (752D0000)
+CDynamicFunction: Lookup of 'GetProcessMemoryInfo' in 'psapi.dll': 752D1480
+CDynamicFunction: Closing library 'psapi.dll' (752D0000)
+CDynamicFunction: Closing library 'Kernel32.dll' (770D0000)
+Using shader api: shaderapiempty.dll
+qdir:    "d:\organized folder\melody\ttyd\blender\project\models\export\"
+gamedir: "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\"
+g_path:  "Train_Outside.qc"
+Building binary model files...
+Working on "Train_Outside.qc"
+SMD MODEL Train_Outside.smd
+Processing LOD for material: rsh_iwayama_8
+Processing LOD for material: rsh_tibikusa_2
+Processing LOD for material: rsh_saboten_2
+Processing LOD for material: rsh_kusa_2
+Processing LOD for material: rsh_jimen_2
+Processing LOD for material: lambert1_v
+Processing LOD for material: rsh_kinoita
+Processing LOD for material: rsh_isijimen_3
+Processing LOD for material: rsh_iwayama_10
+Processing LOD for material: rsh_iwayama_9
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: COSTLY COLLISION MODEL!!!! (825 parts - 40 allowed)
+WARNING: Error with convex elements of Train_Outside.smd, building single convex!!!!
+Model has 1 convex sub-parts
+Collision model completed.
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Train_Outside\Train_Outside.mdl:
+bones          964 bytes (1)
+animations     112 bytes (1 anims) (1 frames) [0:00]
+sequences      220 bytes (1 seq) 
+ik/pose        164 bytes
+eyeballs         0 bytes (0 eyeballs)
+flexes           0 bytes (0 flexes)
+textures       664 bytes
+keyvalues        0 bytes
+bone transforms        0 bytes
+Collision model volume 26716702720.00 in^3
+Please check if you need to delete F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Train_Outside\Train_Outside.phz
+collision        0 bytes
+total         3512
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Train_Outside\Train_Outside.vvd:
+vertices    564480 bytes (11760 vertices)
+tangents    188160 bytes (11760 vertices)
+total       752704 bytes
+---------------------
+Generating optimized mesh "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Train_Outside\Train_Outside.dx90.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:            90 bytes
+strip groups:     250 bytes
+strips:           270 bytes
+verts:         105840 bytes
+indices:        93660 bytes
+bone changes:      88 bytes
+everything:    200262 bytes
+
+Completed "Train_Outside.qc"
+CDynamicFunction: Loading library 'Kernel32.dll' (770D0000)
+CDynamicFunction: Lookup of 'TryEnterCriticalSection' in 'Kernel32.dll': 77450D80
+CDynamicFunction: Loading library 'psapi.dll' (752D0000)
+CDynamicFunction: Lookup of 'GetProcessMemoryInfo' in 'psapi.dll': 752D1480
+CDynamicFunction: Closing library 'psapi.dll' (752D0000)
+CDynamicFunction: Closing library 'Kernel32.dll' (770D0000)
+Using shader api: shaderapiempty.dll
+qdir:    "d:\organized folder\melody\ttyd\blender\project\models\export\"
+gamedir: "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\"
+g_path:  "Wall_Light.qc"
+Building binary model files...
+Working on "Wall_Light.qc"
+SMD MODEL Wall_Light.smd
+Processing LOD for material: vertexColors_04a
+Processing LOD for material: rsh_runpu
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Error with convex elements of Wall_Light.smd, building single convex!!!!
+Model has 1 convex sub-parts
+Collision model completed.
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Common\Wall_Light\Wall_Light.mdl:
+bones          964 bytes (1)
+animations     112 bytes (1 anims) (1 frames) [0:00]
+sequences      220 bytes (1 seq) 
+ik/pose        164 bytes
+eyeballs         0 bytes (0 eyeballs)
+flexes           0 bytes (0 flexes)
+textures       140 bytes
+keyvalues        0 bytes
+bone transforms        0 bytes
+Collision model volume 35350.39 in^3
+Please check if you need to delete F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Common\Wall_Light\Wall_Light.phz
+collision        0 bytes
+total         1988
+---------------------
+writing F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Common\Wall_Light\Wall_Light.vvd:
+vertices    123216 bytes (2567 vertices)
+tangents     41072 bytes (2567 vertices)
+total       164352 bytes
+---------------------
+Generating optimized mesh "F:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2\models/ttyd\Excess_Express\Common\Wall_Light\Wall_Light.dx90.vtx":
+body parts:         8 bytes
+models:            20 bytes
+model LODs:        12 bytes
+meshes:            18 bytes
+strip groups:      50 bytes
+strips:            54 bytes
+verts:          23103 bytes
+indices:        15846 bytes
+bone changes:      24 bytes
+everything:     39159 bytes
+
+Completed "Wall_Light.qc"
+CDynamicFunction: Loading library 'Kernel32.dll' (770D0000)
+CDynamicFunction: Lookup of 'TryEnterCriticalSection' in 'Kernel32.dll': 77450D80
+CDynamicFunction: Loading library 'psapi.dll' (752D0000)
+CDynamicFunction: Lookup of 'GetProcessMemoryInfo' in 'psapi.dll': 752D1480
+CDynamicFunction: Closing library 'psapi.dll' (752D0000)
+CDynamicFunction: Closing library 'Kernel32.dll' (770D0000)
